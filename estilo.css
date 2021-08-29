@@ -38,10 +38,10 @@ body{
     left: 534px;
     width: 167px;
     height: 30px;
-    background-image: url('img/sobrea.jpg');
+    background-image: url('img/infantisa.jpg');
 }
 #sobre:hover {
-    background-image: url('img/sobreh.jpg');
+    background-image: url('img/infantish.jpg');
 }
 #contato{
     position: absolute;
