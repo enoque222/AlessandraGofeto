@@ -1,0 +1,74 @@
+body{
+    background-image: url('img/background.jpg');
+    background-repeat: repeat-x;
+}
+#corpo{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 150px;
+    background-image: url('img/biblia.jpg');
+}
+#home{
+    position: absolute;
+    top: 120px;
+    left: 200px;
+    width: 167px;
+    height: 30px;
+    background-image: url('img/homea.jpg');
+}
+#home:hover {
+    background-image: url('img/homeh.jpg');
+}
+#licoes{
+    position: absolute;
+    top: 120px;
+    left: 367px;
+    width: 167px;
+    height: 30px;
+    background-image: url('img/licoesa.jpg');
+}
+#licoes:hover {
+    background-image: url('img/licoesh.jpg');
+}
+#sobre{
+    position: absolute;
+    top: 120px;
+    left: 534px;
+    width: 167px;
+    height: 30px;
+    background-image: url('img/sobrea.jpg');
+}
+#sobre:hover {
+    background-image: url('img/sobreh.jpg');
+}
+#contato{
+    position: absolute;
+    top: 120px;
+    left: 701px;
+    width: 167px;
+    height: 30px;
+    background-image: url('img/contatoa.jpg');
+}
+#contato:hover {
+    background-image: url('img/contatoh.jpg');
+}
+#corpoi{
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    width: 868px;
+    margin-left: -434px;
+}
+#bl{
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    width: 288px;
+    height: 162px;
+    background-image: url('img/blica.jpg');
+}
+#bl:hover {
+    background-image: url('img/blich.jpg');
+}
