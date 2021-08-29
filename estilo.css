@@ -38,10 +38,10 @@ body{
     left: 534px;
     width: 167px;
     height: 30px;
-    background-image: url('img/infantisa.jpg');
+    background-image: url('infantisa.jpg');
 }
 #sobre:hover {
-    background-image: url('img/infantish.jpg');
+    background-image: url('infantish.jpg');
 }
 #contato{
     position: absolute;
@@ -49,17 +49,28 @@ body{
     left: 701px;
     width: 167px;
     height: 30px;
-    background-image: url('img/contatoa.jpg');
+    background-image: url('curia.jpg');
 }
 #contato:hover {
-    background-image: url('img/contatoh.jpg');
+    background-image: url('curih.jpg');
+}
+#prega{
+    position: absolute;
+    top: 120px;
+    left: 868px;
+    width: 167px;
+    height: 30px;
+    background-image: url('prega.jpg');
+}
+#prega:hover {
+    background-image: url('pregh.jpg');
 }
 #corpoi{
     position: absolute;
     top: 0px;
     left: 50%;
-    width: 868px;
-    margin-left: -434px;
+    width: 1035px;
+    margin-left: -517.5px;
 }
 #bl{
     position: absolute;
